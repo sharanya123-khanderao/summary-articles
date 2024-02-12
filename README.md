@@ -17,7 +17,8 @@ Key technologies such as metadata layers, optimized query engines, and enhanced 
 This approach mitigates the complexities associated with traditional two-tier data architectures, eliminating data duplication, enhancing security, and streamlining operational processes.
 By consolidating data storage and management, Data Lakehouse simplifies analytics workflows and reduces infrastructure costs. 
 This unified approach addresses historical challenges, such as data silos and inconsistent data quality, while promoting improved data accessibility and consistency across the organization.
-#### ![DataLakeHouse](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.databricks.com%2Fblog%2F2020%2F01%2F30%2Fwhat-is-a-data-lakehouse.html&psig=AOvVaw0nKOrr9z54Is5Og4-9ttGY&ust=1707858658604000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDI17jbpoQDFQAAAAAdAAAAABAE)
+#### ![DataLakeHouse](https://github.com/sharanya123-khanderao/summary-articles/assets/83499909/d01a2fea-1e15-4806-b0bd-0a83c8376eec)
+)
 
 
 ### Articles

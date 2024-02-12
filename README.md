@@ -1,6 +1,6 @@
 # Summary of NoSQL Databases and DataLakeHouse
 
-###NoSQL Databases
+### NoSQL Databases
 The discussion encompasses the significance of NoSQL databases in providing alternatives to traditional relational models, catering to diverse data types and scalability needs.
 NoSQL databases provide a departure from traditional relational databases, prioritizing flexibility and scalability over strict data schemas. These databases excel in managing unstructured or semi-structured data, offering various models tailored to specific use cases.
 ### Key Technologies

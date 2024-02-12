@@ -8,7 +8,7 @@ NoSQL databases, with their various models,provides flexibility in data organiza
 - **Key-value Stores:** Manages associative arrays efficiently using Redis and Memcached.
 - **Columnar Databases:** Stores data in columnar fashion for streamlined analytics, utilizing Apache Cassandra and ClickHouse.
 - **Document Stores:** MongoDB and Couchbase offer flexible data storage with support for diverse document formats.
-- **Graph Databases:** Focusses on relationships between data points, powering applications such as social network analysis with Neo4j and ArangoDB.
+- **Graph Databases:** Focusses on relationships between data points, powering applications such as social network analysis with Neo4j and MangoDB.
 #### ![Examples of NoSQL Databases](https://media.geeksforgeeks.org/wp-content/uploads/20220405112418/NoSQLDatabases.jpg)
 
 ### DataLakeHouse
